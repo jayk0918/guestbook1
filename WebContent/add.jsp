@@ -14,7 +14,6 @@
 	GuestBookDao guestBookDao = new GuestBookDao();	
 	GuestBookVo guestBookVo = new GuestBookVo(name, password, content);
 	
-	List<GuestBookVo> gList = 
 	
 	
 %>
